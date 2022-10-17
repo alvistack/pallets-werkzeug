@@ -1,0 +1,5 @@
+python-werkzeug source: file-without-copyright-information
+python-werkzeug source: no-debian-changes
+python-werkzeug source: source-contains-prebuilt-windows-binary
+python-werkzeug source: source-is-missing
+python-werkzeug source: source-package-encodes-python-version
