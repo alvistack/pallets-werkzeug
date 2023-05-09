@@ -1,0 +1,5 @@
+python-werkzeug (100:2.3.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets/werkzeug/releases/tag/2.3.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 29 Apr 2023 15:11:21 +0800
