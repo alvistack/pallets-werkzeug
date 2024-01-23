@@ -9,3 +9,7 @@ htmlcov/
 docs/_build/
 dist/
 venv/
+.vscode
+.mypy_cache/
+.dmypy.json
+.pybuild/
